@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|c:\\users\\diak\\documents\\kruzsliczbalazs\\dummyjson\\dummyjson\\mvvm\\views\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|solutionrelative:mvvm\\views\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|c:\\users\\diak\\documents\\kruzsliczbalazs\\dummyjson\\dummyjson\\mvvm\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|solutionrelative:mvvm\\views\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|c:\\users\\diak\\documents\\kruzsliczbalazs\\dummyjson\\dummyjson\\mvvm\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|solutionrelative:mvvm\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|c:\\users\\diak\\documents\\kruzsliczbalazs\\dummyjson\\dummyjson\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0976E683-6E24-410B-8C17-69BBADA289C7}|DummyJson.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Views\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "mvvm\\Views\\ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Views\\ListPage.xaml.cs",
+              "RelativeToolTip": "mvvm\\Views\\ListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:36:31.534Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -34,6 +64,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Views\\ListPage.xaml",
+              "RelativeDocumentMoniker": "mvvm\\Views\\ListPage.xaml",
+              "ToolTip": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Views\\ListPage.xaml*",
+              "RelativeToolTip": "mvvm\\Views\\ListPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T10:33:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "mvvm\\Model\\Products.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\mvvm\\Model\\Products.cs",
+              "RelativeToolTip": "mvvm\\Model\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:27:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\KruzsliczBalazs\\DummyJson\\DummyJson\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:23:09.941Z",
+              "EditorCaption": ""
             }
           ]
         },
